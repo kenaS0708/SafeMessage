@@ -13,3 +13,4 @@ vosk
 pydub
 aiohttp
 psutil
+SpeechRecognition
